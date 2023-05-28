@@ -4,8 +4,6 @@
 
 # Processo de criação do boilerplace de REST API (Iniciante)
 
----
-
 Este é um estudo para iniciantes de criação e configuração de um projeto de API com node.
 
 #### Instalando dependências
