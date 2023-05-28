@@ -1,5 +1,5 @@
 ---
-#gh-dark-mode-only
+
 ---
 
 # Processo de criação do boilerplace de REST API (Iniciante)
